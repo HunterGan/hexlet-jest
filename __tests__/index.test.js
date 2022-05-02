@@ -1,3 +1,5 @@
+// @ts-check
+
 import reverse from '../src/index.js';
 
 test('reverse', () => {
